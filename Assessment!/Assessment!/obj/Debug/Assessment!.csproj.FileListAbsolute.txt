@@ -1,0 +1,20 @@
+C:\Users\student\Desktop\JUST IT\c#\My exercices\Assessment!\Assessment!\bin\Debug\Assessment!.exe.config
+C:\Users\student\Desktop\JUST IT\c#\My exercices\Assessment!\Assessment!\obj\Debug\Assessment!.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\JUST IT\c#\My exercices\Assessment!\Assessment!\bin\Debug\Assessment!.exe
+C:\Users\student\Desktop\JUST IT\c#\My exercices\Assessment!\Assessment!\bin\Debug\Assessment!.pdb
+C:\Users\student\Desktop\JUST IT\c#\My exercices\Assessment!\Assessment!\obj\Debug\Assessment!.exe
+C:\Users\student\Desktop\JUST IT\c#\My exercices\Assessment!\Assessment!\obj\Debug\Assessment!.pdb
+C:\Users\HP\Desktop\c#\My exercices\Assessments!!!!!!\Assessment!\Assessment!\bin\Debug\Assessment!.exe.config
+C:\Users\HP\Desktop\c#\My exercices\Assessments!!!!!!\Assessment!\Assessment!\bin\Debug\Assessment!.exe
+C:\Users\HP\Desktop\c#\My exercices\Assessments!!!!!!\Assessment!\Assessment!\bin\Debug\Assessment!.pdb
+C:\Users\HP\Desktop\c#\My exercices\Assessments!!!!!!\Assessment!\Assessment!\obj\Debug\Assessment!.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\c#\My exercices\Assessments!!!!!!\Assessment!\Assessment!\obj\Debug\Assessment!.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c#\My exercices\Assessments!!!!!!\Assessment!\Assessment!\obj\Debug\Assessment!.exe
+C:\Users\HP\Desktop\c#\My exercices\Assessments!!!!!!\Assessment!\Assessment!\obj\Debug\Assessment!.pdb
+C:\Users\HP\Desktop\PROGRAMMING\c#\My exercices\Assessments!!!!!!\Assessment!\Assessment!\bin\Debug\Assessment!.exe.config
+C:\Users\HP\Desktop\PROGRAMMING\c#\My exercices\Assessments!!!!!!\Assessment!\Assessment!\bin\Debug\Assessment!.exe
+C:\Users\HP\Desktop\PROGRAMMING\c#\My exercices\Assessments!!!!!!\Assessment!\Assessment!\bin\Debug\Assessment!.pdb
+C:\Users\HP\Desktop\PROGRAMMING\c#\My exercices\Assessments!!!!!!\Assessment!\Assessment!\obj\Debug\Assessment!.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\PROGRAMMING\c#\My exercices\Assessments!!!!!!\Assessment!\Assessment!\obj\Debug\Assessment!.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PROGRAMMING\c#\My exercices\Assessments!!!!!!\Assessment!\Assessment!\obj\Debug\Assessment!.exe
+C:\Users\HP\Desktop\PROGRAMMING\c#\My exercices\Assessments!!!!!!\Assessment!\Assessment!\obj\Debug\Assessment!.pdb
